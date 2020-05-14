@@ -8,6 +8,9 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * ISTQB Certified Tester Foundation Level 
 
 ## Tech skills
+*MySQL
+
+
 
 ## Courses
 
