@@ -7,9 +7,17 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 ## Certificate
 * ISTQB Certified Tester Foundation Level 
 
-## Tech skills
-*MySQL
-
+## Tech stack
+* SDLC
+* Software testing
+* Creating test cases
+* Creating defect report
+* Agile and Waterfall
+* Database: MySQL
+* Project management tools: Jira, GitHub
+* Testing: Postman
+* Languages: Java (in train) 
+* Version control systems: GIT
 
 
 ## Courses
