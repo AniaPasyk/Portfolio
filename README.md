@@ -21,8 +21,16 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 
 
 ## Courses
+* Kurs MySQL. Bazy danych, język zapytań SQL.
+* Postman - testowanie REST API
+* Java dla testerów
+* Atlassian Jira - podstawy obsługi (wersja serwerowa)
+
 
 ## Technical Books read
+* R.Smilgin - Zawód tester
+* W. Szafraniec, D. Gabor - ABC testowania oprogramowania
+
 
 ## Groups on Facebook
 
