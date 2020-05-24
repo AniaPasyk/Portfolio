@@ -39,8 +39,12 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * [IT Jobs for intern/junior](https://www.facebook.com/groups/1561984417428846/announcements)
 
 
-
 ## Blogs read
+* [testerzy.pl](https://testerzy.pl)
+* [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+* [testuj.pl](https://testuj.pl/blog/)
+* [testelka.pl](https://testelka.pl/)
+
 
 ## Webinars
 
