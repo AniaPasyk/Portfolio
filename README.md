@@ -12,12 +12,11 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * Software testing
 * Creating test cases
 * Creating defect report
-* Agile and Waterfall
+* SCRUM
 * Database: MySQL
 * Project management tools: Jira, GitHub
 * Testing: Postman
 * Languages: Java (in train) 
-* Version control systems: GIT
 
 
 ## Courses
@@ -33,6 +32,9 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 
 
 ## Groups on Facebook
+* [Tester oprogramowania - wsparcie na starcie] (https://www.facebook.com/groups/testeroprogramowania)
+
+
 
 ## Blogs read
 
