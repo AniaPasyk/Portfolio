@@ -43,6 +43,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * [testerzy.pl](https://testerzy.pl)
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [testuj.pl](https://testuj.pl/blog/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [testelka.pl](https://testelka.pl/)
 
 
