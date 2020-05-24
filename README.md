@@ -30,6 +30,8 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * R.Smilgin - Zawód tester
 * W. Szafraniec, D. Gabor - ABC testowania oprogramowania
 
+## Webinars
+* Rozwiązywanie zadań z SQLa - Krystian Brożek z GeekON
 
 ## Groups on Facebook
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
@@ -47,9 +49,6 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * [cherry-it.pl](http://cherry-it.pl/)
 * [testelka.pl](https://testelka.pl/)
 
-
-## Webinars
-* Rozwiązywanie zadań z SQLa - Krystian Brożek z GeekON
 
 ## Subscribed youTube channels
 * [testuj.pl](https://www.youtube.com/channel/UC5nfCVMCEhYjCgnUoufoLhw/videos)
