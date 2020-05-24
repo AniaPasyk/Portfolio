@@ -50,7 +50,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * [testelka.pl](https://testelka.pl/)
 
 
-## Subscribed youTube channels
+## Subscribed youtube channels
 * [testuj.pl](https://www.youtube.com/channel/UC5nfCVMCEhYjCgnUoufoLhw/videos)
 * [Pasja informatyki](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw)
 * [Anna Czyrko](https://www.youtube.com/channel/UCbBwAKA9RkCn-8fbzsWv-1A)
