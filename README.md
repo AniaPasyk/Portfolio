@@ -39,6 +39,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 * [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 * [IT Jobs for intern/junior](https://www.facebook.com/groups/1561984417428846/announcements)
+* [Cherry-IT: Zostań Testerem Automatycznym](https://www.facebook.com/groups/195487914423878)
 
 
 ## Blogs read
