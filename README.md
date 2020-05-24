@@ -44,9 +44,20 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [testuj.pl](https://testuj.pl/blog/)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+* [cherry-it.pl](http://cherry-it.pl/)
 * [testelka.pl](https://testelka.pl/)
 
 
 ## Webinars
+* Rozwiązywanie zadań z SQLa - Krystian Brożek z GeekON
+
+## Subscribed youTube channels
+* [testu.pl](https://www.youtube.com/channel/UC5nfCVMCEhYjCgnUoufoLhw/videos)
+* [Pasja informatyki](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw)
+* [Anna Czyrko](https://www.youtube.com/channel/UCbBwAKA9RkCn-8fbzsWv-1A)
+* [Obudź w sobie Geeka - GeekON](https://www.youtube.com/channel/UC0qnnzceIJlGS3gpiosdSZw/videos)
+* [Testelka](https://www.youtube.com/channel/UC5D9qnAZlP2wod7znQR63pQ)
+* [Zawód tester](https://www.youtube.com/channel/UCUJzan4zBUpWwS1yWZZCwUw/videos)
+
 
 
