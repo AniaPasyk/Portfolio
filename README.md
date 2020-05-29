@@ -2,7 +2,7 @@
 My Tester's Portfolio
 
 ## About me
-My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow with a master's degree in Spatial Economy. Since graduation, I started to interested in software testing. I want to gain experience in this profession because the tester’s job teaches logical thinking and it is more satisfying for me. I'm a self – educated person and open to quickly learning new knowledge. I want to learn how to make software and be part of it. My goal is to develop testing knowledge and technical skills. In the future, I want to learn programming and make use of my technical skills to be a good automation tester.
+My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow with a master's degree in Spatial Economy. Since graduation, I started to interested in software testing. I want to gain experience in this profession because the tester’s job teaches logical thinking and it is more satisfying for me. I'm a self – educated person and open to quickly learning new knowledge. I want to learn how to make software and be part of it. My goal is to develop testing knowledge and technical skills. In the future, I want to learn to program and make use of my technical skills to be a good automation tester.
 
 ## Certificate
 * ISTQB Certified Tester Foundation Level 
@@ -20,7 +20,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 
 
 ## Courses
-* Course of MySQL. Databases, Srukctured Query Language
+* MySQL Course. Databases, Srukctured Query Language
 * Postman - testing REST API
 * Java for software testers - in train
 * Atlassian Jira - basics of operation (server version)
