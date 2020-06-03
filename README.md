@@ -12,7 +12,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * Software testing
 * Creating test cases
 * Creating defect report
-* SCRUM
+* Agile
 * Database: MySQL
 * Project management tools: Jira, GitHub
 * Testing: Postman
@@ -32,6 +32,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 
 ## Webinars
 * Rozwiązywanie zadań z SQLa - Krystian Brożek z GeekON
+* Czerwcówka z bazami danych - Krystian Brożek z GeekON
 
 ## Groups on Facebook
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
