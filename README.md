@@ -16,13 +16,13 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * Database: MySQL
 * Project management tools: Jira, GitHub
 * Testing: Postman
-* Languages: Java (in train) 
+* Languages: Java 
 
 
 ## Courses
 * MySQL Course. Databases, Srukctured Query Language
 * Postman - testing REST API
-* Java for software testers - in train
+* Java for software testers
 * Atlassian Jira - basics of operation (server version)
 
 
