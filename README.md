@@ -15,7 +15,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * Agile
 * Database: MySQL
 * Project management tools: Jira, GitHub
-* Testing: Postman
+* Tools for software building and testing: Postman, IntelliJ IDEA
 * Languages: Java 
 
 
