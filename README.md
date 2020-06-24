@@ -30,7 +30,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * R.Smilgin - Zawód tester
 * W. Szafraniec, D. Gabor - ABC testowania oprogramowania
 
-##Meetup
+## Meetup
 * QA Tester Online Meetup #1: Czy na pewno wiesz już wszystko o testach jednostkowych w Javie?
 
 ## Webinars
