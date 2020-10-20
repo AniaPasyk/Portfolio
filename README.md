@@ -12,7 +12,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * Software testing
 * Creating test cases
 * Creating defect report
-* Agile
+* SCRUM
 * Database: MySQL
 * Project management tools: Jira, Trello, GitHub
 * Tools for software building and testing: Postman, IntelliJ IDEA
@@ -32,6 +32,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 
 ## Meetup
 * QA Tester Online Meetup #1: Czy na pewno wiesz już wszystko o testach jednostkowych w Javie?
+* QA Tester Online Meetup #2 : Techniki testowania oparte na specyfikacji. - Olga Kamińska-Nowicka 
 
 ## Webinars
 * Rozwiązywanie zadań z SQLa - Krystian Brożek z GeekON
@@ -58,10 +59,12 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 ## Subscribed youtube channels
 * [testuj.pl](https://www.youtube.com/channel/UC5nfCVMCEhYjCgnUoufoLhw/videos)
 * [Pasja informatyki](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw)
+* [Bartosz Kita](https://www.youtube.com/user/BartooszK)
 * [Anna Czyrko](https://www.youtube.com/channel/UCbBwAKA9RkCn-8fbzsWv-1A)
 * [Obudź w sobie Geeka - GeekON](https://www.youtube.com/channel/UC0qnnzceIJlGS3gpiosdSZw/videos)
 * [Testelka](https://www.youtube.com/channel/UC5D9qnAZlP2wod7znQR63pQ)
 * [Zawód tester](https://www.youtube.com/channel/UCUJzan4zBUpWwS1yWZZCwUw/videos)
+* [Samuraj Programowania](https://www.youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg)
 
 
 
