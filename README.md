@@ -14,7 +14,8 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * Creating defect report
 * SCRUM
 * Database: MySQL
-* Project management tools: Jira, Trello, GitHub
+* Version Control Systems: GIT
+* Project management tools: Jira, Trello
 * Tools for software building and testing: Postman, IntelliJ IDEA
 * Languages: Java 
 
@@ -22,6 +23,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 ## Courses
 * MySQL Course. Databases, Srukctured Query Language
 * Postman - testing REST API
+* GIT – course for beginners
 * Java for software testers
 * Atlassian Jira - basics of operation (server version)
 
