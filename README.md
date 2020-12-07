@@ -13,6 +13,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * Creating test cases
 * Creating defect report
 * SCRUM
+* DevTools
 * Database: MySQL
 * Version Control Systems: GIT
 * Project management tools: Jira, Trello
@@ -26,6 +27,7 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * GIT – course for beginners
 * Java for software testers
 * Atlassian Jira - basics of operation (server version)
+* Google Chrome Developer Tools
 
 
 ## Technical Books read
