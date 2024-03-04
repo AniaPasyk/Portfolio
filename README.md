@@ -2,22 +2,25 @@
 My Tester's Portfolio
 
 ## About me
-My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow with a master's degree in Spatial Economy. Since graduation, I started to interested in software testing. I want to gain experience in this profession because the tester’s job teaches logical thinking and it is more satisfying for me. I'm a self – educated person and open to quickly learning new knowledge. I want to learn how to make software and be part of it. My goal is to develop testing knowledge and technical skills. In the future, I want to learn to program and make use of my technical skills to be a good automation tester.
+My name is Anna Pasyk, and I hold a master's degree in Spatial Economy from the University of Agriculture in Cracow. Since completing my studies, I have developed a keen interest in software testing, particularly in Test Automation. The role of a tester not only cultivates logical thinking but also brings me immense satisfaction.
+As a self-educated individual, I possess a proactive approach towards acquiring new knowledge swiftly. I am currently engaged in mastering software development and aspire to become an integral part of this dynamic field. My objective is to enhance my proficiency in testing methodologies and technical competencies. Looking ahead, I am committed to advancing my programming skills and leveraging my technical acumen to excel as an automation tester.
 
 ## Certificate
 * ISTQB Certified Tester Foundation Level 
 
 ## Tech stack
-* SDLC
-* Software testing
+* SDLC, STLC
+* Manual Testing
 * Creating test cases
 * Creating defect report
-* SCRUM
+* SCRUM, Agile
 * DevTools
 * Database: MySQL
-* Version Control Systems: GIT
-* Project management tools: Jira, Trello
-* Tools for software building and testing: Postman, IntelliJ IDEA
+* Version Control Systems: GIT, GitLab CI/CD
+* Project management tools: Jira, Redmine, GitLab, Trello
+* Tools for software building and testing: Postman, IntelliJ IDEA, ALM
+* Automation Testing (Selenium, TestNG, POM, Page Factories, Extend Spark Reporter)
+* HTML & CSS
 * Languages: Java 
 
 
@@ -28,11 +31,14 @@ My name is Anna Pasyk. I graduated from the University of Agriculture in Cracow 
 * Java for software testers
 * Atlassian Jira - basics of operation (server version)
 * Google Chrome Developer Tools
+* Introduction to GIT
+* Selenium Java Course from scratch
 
 
 ## Technical Books read
 * R.Smilgin - Zawód tester
 * W. Szafraniec, D. Gabor - ABC testowania oprogramowania
+* Boni Garcia - Selenium WebDriver w Javie
 
 ## Meetup
 * QA Tester Online Meetup #1: Czy na pewno wiesz już wszystko o testach jednostkowych w Javie?
