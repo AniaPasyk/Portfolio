@@ -67,12 +67,16 @@ As a self-educated individual, I possess a proactive approach towards acquiring 
 
 
 ## Subscribed youtube channels
+* [Let's Kode It](https://www.youtube.com/@LetsKodeItOfficial)
+* [Testelka](https://www.youtube.com/channel/UC5D9qnAZlP2wod7znQR63pQ)
+* [edureka!](https://www.youtube.com/@edurekaIN)
 * [testuj.pl](https://www.youtube.com/channel/UC5nfCVMCEhYjCgnUoufoLhw/videos)
 * [Pasja informatyki](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw)
+* [Tricentis Academy](https://www.youtube.com/@TricentisAcademy)
+* [Jak nauczyć się programowania](https://www.youtube.com/@Jaknauczycsieprogramowania)
 * [Bartosz Kita](https://www.youtube.com/user/BartooszK)
 * [Anna Czyrko](https://www.youtube.com/channel/UCbBwAKA9RkCn-8fbzsWv-1A)
 * [Obudź w sobie Geeka - GeekON](https://www.youtube.com/channel/UC0qnnzceIJlGS3gpiosdSZw/videos)
-* [Testelka](https://www.youtube.com/channel/UC5D9qnAZlP2wod7znQR63pQ)
 * [Zawód tester](https://www.youtube.com/channel/UCUJzan4zBUpWwS1yWZZCwUw/videos)
 * [Samuraj Programowania](https://www.youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg)
 
