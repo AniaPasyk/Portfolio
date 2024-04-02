@@ -48,15 +48,6 @@ As a self-educated individual, I possess a proactive approach towards acquiring 
 * Rozwiązywanie zadań z SQLa - Krystian Brożek z GeekON
 * Czerwcówka z bazami danych - Krystian Brożek z GeekON
 
-## Groups on Facebook
-* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
-* [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610)
-* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
-* [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
-* [IT Jobs for intern/junior](https://www.facebook.com/groups/1561984417428846/announcements)
-* [Cherry-IT: Zostań Testerem Automatycznym](https://www.facebook.com/groups/195487914423878)
-
-
 ## Blogs read
 * [testerzy.pl](https://testerzy.pl)
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
