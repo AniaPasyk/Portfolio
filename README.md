@@ -9,44 +9,39 @@ As a self-educated individual, I possess a proactive approach towards acquiring 
 * ISTQB Certified Tester Foundation Level 
 
 ## Tech stack
-* SDLC, STLC
-* Manual Testing
+* Language: JAVA
+* Automation Testing (Selenium, TestNG, POM, Page Factories, Extend Spark Reporter)
+* SDLC, STLC, TLD
+* Version Control Systems: GIT, GitLab CI/CD
+* Project management tools: Jira, Redmine, GitLab, Trello
+* Tools for software building and testing: Postman, IntelliJ IDEA, ALM
+* Manual Testing (Web and Mobile application)
 * Creating test cases
 * Creating defect report
 * SCRUM, Agile
 * DevTools
-* Database: MySQL
-* Version Control Systems: GIT, GitLab CI/CD
-* Project management tools: Jira, Redmine, GitLab, Trello
-* Tools for software building and testing: Postman, IntelliJ IDEA, ALM
-* Automation Testing (Selenium, TestNG, POM, Page Factories, Extend Spark Reporter)
+* Database: MySQL (Database Test)
 * HTML & CSS
-* Languages: Java 
+
 
 
 ## Courses
-* MySQL Course. Databases, Srukctured Query Language
-* Postman - testing REST API
-* GIT – course for beginners
-* Java for software testers
-* Atlassian Jira - basics of operation (server version)
-* Google Chrome Developer Tools
-* Introduction to GIT
-* Selenium Java Course from scratch
+* Java for software testers (UDEMY)
+* GIT – course for beginners (UDEMY)
+* Introduction to GIT (ModernTester – Sii Sp. z o. o.)
+* Selenium Java Course from scratch (UDEMY)
+* MySQL Course. Databases, Srukctured Query Language (ModernTester – Sii Sp. z o. o.)
+* Postman - testing REST API (SKILLSHARE)
+* Google Chrome Developer Tools (UDEMY)
+* Writing Effective Prompts for ChayGPT (O'REILLY)
+
 
 
 ## Technical Books read
 * R.Smilgin - Zawód tester
-* W. Szafraniec, D. Gabor - ABC testowania oprogramowania
-* Boni Garcia - Selenium WebDriver w Javie
+* W. Szafraniec, D. Gabor - ABC of software testing
+* Boni Garcia - Hands-On Selenium WebDriver with Java
 
-## Meetup
-* QA Tester Online Meetup #1: Czy na pewno wiesz już wszystko o testach jednostkowych w Javie?
-* QA Tester Online Meetup #2 : Techniki testowania oparte na specyfikacji. - Olga Kamińska-Nowicka 
-
-## Webinars
-* Rozwiązywanie zadań z SQLa - Krystian Brożek z GeekON
-* Czerwcówka z bazami danych - Krystian Brożek z GeekON
 
 ## Blogs read
 * [testerzy.pl](https://testerzy.pl)
