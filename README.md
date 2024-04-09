@@ -43,6 +43,14 @@ As a self-educated individual, I possess a proactive approach towards acquiring 
 * Boni Garcia - Hands-On Selenium WebDriver with Java
 
 
+ ## Meetups/Webinars
+* QA Tester Online Meetup #1: Czy na pewno wiesz już wszystko o testach jednostkowych w Javie?
+* QA Tester Online Meetup #2 : Techniki testowania oparte na specyfikacji. - Olga Kamińska-Nowicka 
+* Rozwiązywanie zadań z SQLa - Krystian Brożek z GeekON
+* Czerwcówka z bazami danych - Krystian Brożek z GeekON
+* GitHub Co-pilot
+
+
 ## Blogs read
 * [testerzy.pl](https://testerzy.pl)
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
