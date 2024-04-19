@@ -49,6 +49,7 @@ As a self-educated individual, I possess a proactive approach towards acquiring 
 * Rozwiązywanie zadań z SQLa - Krystian Brożek z GeekON
 * Czerwcówka z bazami danych - Krystian Brożek z GeekON
 * GitHub Co-pilot
+* Testowanie REST API (AkademiaQA)
 
 
 ## Blogs read
@@ -61,6 +62,7 @@ As a self-educated individual, I possess a proactive approach towards acquiring 
 
 
 ## Subscribed youtube channels
+* [AkademiaQA](https://www.youtube.com/@akademiaqa)
 * [Let's Kode It](https://www.youtube.com/@LetsKodeItOfficial)
 * [SDET-QA](https://www.youtube.com/@sdetpavan)
 * [Testelka](https://www.youtube.com/channel/UC5D9qnAZlP2wod7znQR63pQ)
